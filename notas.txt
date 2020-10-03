@@ -1,0 +1,9 @@
+git init
+git config --global user.email "wchavezll@uni.pe"
+git config --global user.name "Eduardo Chavez"
+git checkout -- index.html
+git diff index.html
+git log
+git add .gitignore
+git status
+git commit -m "he agregado un gitInnore"
