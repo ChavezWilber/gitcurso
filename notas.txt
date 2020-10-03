@@ -7,3 +7,7 @@ git log
 git add .gitignore
 git status
 git commit -m "he agregado un gitInnore"
+git branch
+git branch login
+
+git remote add origin https://github.com/ChavezWilber/gitcurso
